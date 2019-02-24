@@ -10,7 +10,7 @@ java Lab2 <input file name/input txt file>
 You can include parentheses in the input
 Accepts a file "random-numbers"
 The 4 scheduling processes:
-  LRU = Last Recently Used
+  LCFS = Last Come First Served
   FIFO = First in First Out
   HPRN = Highest Penalty Ratio Next
   RR = Round Robin
